@@ -1,0 +1,17 @@
+.chandra-card .chakra-heading {
+  text-align: left;
+  width: 100%;
+}
+
+
+.header-show {
+z-index: 1;
+}
+
+.header-hide {
+ transform: translateY(-120px);
+}
+
+.chandra-select option {
+  color: #000;
+}
